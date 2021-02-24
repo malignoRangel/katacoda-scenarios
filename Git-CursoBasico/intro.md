@@ -18,4 +18,3 @@ Comando | Descripcion
 `$ git pull origin NombreDeBranch ` | Hace una actualización bajando los cambios del repositorio remoto al local
 `$ git merge NombreDeBranch ` | Se usa para fusionar dos ramas
 
-#### By Leo Rangel
